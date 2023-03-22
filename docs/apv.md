@@ -1,6 +1,6 @@
 # Columbus Roleplay APV
 
-## Algemeen wheske de beste?
+## Algemeen
 
 ### 1.1 Geldigheid
 
