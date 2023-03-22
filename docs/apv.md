@@ -1,6 +1,6 @@
 # Columbus Roleplay APV
 
-## Algemeen 
+## Algemeen
 
 ### 1.1 Geldigheid
 
