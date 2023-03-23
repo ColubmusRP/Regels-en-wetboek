@@ -366,21 +366,13 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Handsuppen mag pas gedaan worden wanneer er met zekerheid gezegd kan worden dat de arrestant een zware straf zal krijgen.
 
 ### 4.16  Drugs verkopen en drugs locaties 
-1. Een drugsverkoper overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
-    * Hij/zij beschermende kleding zoals een body armor draagt.
-    * Gezichtsbedekking op heeft tijdens het verkopen.
-    * Een overduidelijke escort heeft.
-        * Zoals: Een voertuig die er overduidelijk achteraan rijdt, meerdere personen die in het voertuig zitten zonder de goede handelingen uit te voeren of niet de correcte kleding aan hebben.
-    * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijdt
-        * Zoals: alleen toeteren bij een afleverpunt.
-2. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
-3. Een drugsverkoper herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
-4. Iemand die in een drugsverkoop voertuig rijdt met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder meta.
-5. Alle bovenstaande punten zullen bestraft worden volgens categorie 2.
-6. Het campen/opwachten op de drugsverkoop locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
-7. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal het scenario ongeldig verklaard worden en gaat het geld terug naar de rechtvaardige eigenaar.
-8. Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-9. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
+1. Een persoon  uit het criminele circuit mag alleen geript/overvallen worden als hij/zij bezig is met criminele activiteiten . De rest is geen reden om diegene te overvallen. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 2.
+2. Een drugsverkoper mag je herkennen als iemand drugs verkoopt.
+3. Het campen/opwachten op de drugs locaties zoals pluk, verpak en verkoop is verboden. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 2. Vaker dan 3x per 12u op een locatie komen om te rippen/checken wordt gezien als campen.categorie 2.
+4. Rippen mag alleen met een steek of vuurwapen. Je mag dus NIET met een honkbalknuppel iemand rippen. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 2.
+5. Rippen mag pas vanaf het moment dat er volgens het f10 menu 2 agenten in dienst zijn. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 2.
+6. Wiet pluk en verpak mag onder geen enkele voorwaarde overvallen worden. (dit om nieuwe spelers ook een kans te geven in de stad om te groeien als crimineel) Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 2. 
+7. Rippen van kofferbakken door criminelen is NIET toegestaan. Criminelen kunnen alleen rippen wat op de persoon zelf aanwezig is. en volgens de toegestane regels van rippen Overigens geldt dit niet voor leden van de  (politie,AT,DSI) Zij mogen in een rp gedeelte eventueel de kofferbak doorzoeken.Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 2.
 
 ### 4.17 - Illegale activiteiten op Twitter
 1. Het is niet toegestaan om illegale activiteiten te bespreken op Twitter. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
