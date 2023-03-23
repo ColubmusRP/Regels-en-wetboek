@@ -10,16 +10,17 @@
 
 ### 1.2 - Strafbepaling
 1. In Columbus gaan wij te werk met verschillende categorieën aan straffen.
-    * Categorie 1: Een waarschuwing + Kick.
-        * Wanneer de overtreding zodanig fout is of er is een conflict ontstaan tussen meerdere partijen, kan er gekozen worden om bij deze straf een ban te geven van 1 uur.
-        * Wanneer iemand schuldig is aan 3 waarschuwingen in 1 maand zal er een straf opgelegd worden uit categorie 2.
-    * Categorie 2: een ban van maximaal 2 dagen.
-    * Categorie 3: een ban van maximaal 4 dagen.
-    * Categorie 4: een ban van maximaal 1 week.
-    * Categorie 5: een ban van maximaal 1 maand.
-    * Categorie 6: een perm ban.
+    * Categorie 1: Kick.
+        * Wanneer iemand schuldig is aan 3 waarschuwingen in 1 maand zal er een straf opgelegd worden uit categorie 3.
+    * Categorie 2: een ban van 1 uur.
+    * Categorie 3: een ban van 1 dag.
+    * Categorie 4: een ban van 3 dagen.
+    * Categorie 5: een ban van 5 dagen.
+    * Categorie 6: een ban van 7 dagen.
         * Deze straf kan preventief worden toegepast. Dit wil zeggen, dat wanneer iemand op heterdaad is betrapt bij het overtreden van een regel of iets bij zich heeft wat diegene niet bij zich hoort te hebben, deze straf toegepast kan worden. Deze straf zal dan in een ticket verder behandeld worden.
-    * Categorie 7: een account wipe.
+    * Categorie 7: een ban van 1 maand
+    * Categorie 8: een permanente ban 
+        * Dit houdt in dat de speler geen recht meer heeft op een unban. Deze ban is door een managementlid besloten en kan niet meer worden herzien.
 
 ### 1.3 - Aanvulling op strafbepaling
 1. Er kan door een stafflid gekozen worden om af te wijken van de aangegeven straffen. Dit wil zeggen dat een stafflid de keuze heeft om aan de hand van de situatie en de bewijzen te bepalen of hij de straf verzwaard/vermindert.
@@ -398,9 +399,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 1. Het is niet toegestaan om als ANWB-medewerkers in dienst criminele activiteiten te verrichten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2 en een ontslag op staande voet.
     * Het is wel toegestaan wanneer de ANWB-medewerkers uit dienst is.
 2. Het is niet toegestaan als ANWB-medewerkers uit dienst voertuigen te repareren. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2.
-3. Het is niet toegestaan tunes goedkoper te maken voor vrienden. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 3.
-4. Het is niet toegestaan je eigen auto’s te tunen. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
-5. Een ANWB-medewerker die uit dienst gaat, dient voor 30 minuten zich niet bezig te houden met criminele activiteiten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. 
+3. Een ANWB-medewerker die uit dienst gaat, dient voor 30 minuten zich niet bezig te houden met criminele activiteiten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. 
     * Bij het vaker overtreden van deze regel kan er gekozen worden de speler te ontslaan.
 ### 5.4 - Politie
 1. Het is niet toegestaan de banden van een voertuig te taseren. De speler die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
