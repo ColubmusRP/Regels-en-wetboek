@@ -407,9 +407,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 1. Het is niet toegestaan om als ANWB-medewerkers in dienst criminele activiteiten te verrichten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2 en een ontslag op staande voet.
     * Het is wel toegestaan wanneer de ANWB-medewerkers uit dienst is.
 2. Het is niet toegestaan als ANWB-medewerkers uit dienst voertuigen te repareren. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2.
-3. Het is niet toegestaan tunes goedkoper te maken voor vrienden. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 3.
-4. Het is niet toegestaan je eigen auto’s te tunen. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
-5. Een ANWB-medewerker die uit dienst gaat, dient voor 30 minuten zich niet bezig te houden met criminele activiteiten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. 
+3. Een ANWB-medewerker die uit dienst gaat, dient voor 30 minuten zich niet bezig te houden met criminele activiteiten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. 
     * Bij het vaker overtreden van deze regel kan er gekozen worden de speler te ontslaan.
 ### 5.4 - Politie
 1. Het is niet toegestaan de banden van een voertuig te taseren. De speler die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
