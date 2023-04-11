@@ -192,14 +192,13 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 ### 3.18 - Zelfmoord
 1. Het is toegestaan zelfmoord te plegen. Echter als hij/zij dit doet, zal hier een account wipe aan verbonden zijn. Je karakter heeft zijn leven beëindigd. Wordt dit meermaals uitgevoerd dan zal hij/zij gestraft worden volgens categorie 7.
 
-### 3.19 - Stelen van een voertuig
-1. Het stelen van een voertuig is toegestaan mits de volgende genoemde onderdelen niet van toepassing zijn:
+### 3.19 - Stelen en overvallen van een voertuig
+1. Het stelen en overvallen van een voertuig is toegestaan mits de volgende genoemde onderdelen niet van toepassing zijn:
     * De speler aan het in- of uitladen is.
     * De speler aan het tanken is.
     * De speler aan het repareren is.
 2. Hij/zij die het in een van deze gevallen wel doet, zal bestraft worden volgens categorie 1. 
-3. Het is ten strengste verboden een voertuig van taxi en ANWB te te stelen. Hij/zij die zich hier wel aan schuldig maakt, zal worden gestraft volgens categorie 1.
-    * Dit geldt ook voor burgers uit de overheid die uit dienst zijn.
+3. Het is ten strengste verboden een voertuig van taxi en ANWB te 
 
 ### 3.20 - Bodycam
 1. Alle overheidsmedewerkers zijn uitgerust met een bodycam. Deze bodycam kan gebruikt worden voor eventuele bewijzen.
@@ -465,6 +464,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Er geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 10. Het is voor een politie agent niet toegestaan deel te nemen aan een overval scenario wanneer deze gestart is voordat/op het moment dat de speler in het laadscherm is. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
     * Dit geldt niet wanneer de speler 5 minuten geleden nog in de stad was. Dit om bijvoorbeeld te reloggen of door een crash.
+11. Het is niet toegestaan een verpak/pluk binnen te vallen wanneer er minder dan 2 vuurwapen dragende agenten aanwezig zijn. De agent die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 
 ### 5.5 - Overheids items
 1. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan door te verkopen of te geven aan iemand die niet over deze baan beschikt. Hij/zij die wel doet, zal gestraft worden volgens 5.1 - corruptie.
