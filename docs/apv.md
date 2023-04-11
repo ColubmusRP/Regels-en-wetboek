@@ -58,7 +58,6 @@ Voorbeelden hiervan zijn:
     * Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval.
     * In een portofoon/telefoon praten terwijl je aan het zwemmen bent of onder water bent.
     * Het gebruiken van /carry op een onrealistische manier.
-    * Het controleren/bestelen van kofferbakken zonder enige aanleiding.
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me.
     * Het onrealistisch gebruik maken van de warmte camera. Dit is ter beoordeling van een stafflid.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
