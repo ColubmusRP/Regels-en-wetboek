@@ -198,7 +198,8 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * De speler aan het tanken is.
     * De speler aan het repareren is.
 2. Hij/zij die het in een van deze gevallen wel doet, zal bestraft worden volgens categorie 1. 
-3. Het is ten strengste verboden een voertuig van taxi en ANWB te 
+3. Het is ten strengste verboden een voertuig van taxi en ANWB te te stelen. Hij/zij die zich hier wel aan schuldig maakt, zal worden gestraft volgens categorie 1.
+    * Dit geldt ook voor burgers uit de overheid die uit dienst zijn.
 
 ### 3.20 - Bodycam
 1. Alle overheidsmedewerkers zijn uitgerust met een bodycam. Deze bodycam kan gebruikt worden voor eventuele bewijzen.
