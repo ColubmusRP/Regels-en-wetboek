@@ -392,7 +392,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.15 - Doden van agenten
 1. Het is niet toegestaan zonder geldige reden een agent dood te schieten. De reden: “het is een agent.” is dus geen geldige reden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
-2. Het doodschieten van een agent omdat een vriend wordt aangehouden voor een simpele overtreding is niet toegestaan.
+2. Het doodschieten van een agent omdat een vriend wordt aangehouden voor een simpele overtreding is niet toegestaan. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
 3. De speler is verplicht ten alle tijden de RP aan te gaan met de politie. Dit kan door de agent te handsuppen om de arrestant vrij te laten en dus niet de agent te doden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
     * Handsuppen mag pas gedaan worden wanneer er met zekerheid gezegd kan worden dat de arrestant een zware straf zal krijgen.
 4. Het dood schieten van een agent omdat de speler celstraf heeft gekregen van deze agent is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
