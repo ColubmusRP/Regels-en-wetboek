@@ -423,6 +423,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.19 - Turf
 1. Het is niet toegestaan een spray te zetten op overheidsgebouwen en openbare gebouwen. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
+2. Het is niet toegestaan iemand te vermoorden, omdat hij/zij in jou territorium aan het sprayen is of drugs verkoopt. Er dient altijd een roleplay scenario aan vooraf geweest te zijn. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens 3.15 - RDM.
 
 ## 5. Overheidsmedewerkers
 
