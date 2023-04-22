@@ -236,9 +236,10 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 
 ### 3.25 - No value of property
 1. De speler dient ten alle tijden waarde te hechten aan zijn/haar spullen. Enkele voorbeelden waar dit niet het geval is:
-    * Een auto met opzet het water in te rijden zonder enige geldige reden.
+    * Een auto met opzet het water in te rijden.
     * Voor geen enkele geldige reden een vuurwapen gebruiken.
 2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+3. Het is niet toegestaan uw voertuig te dumpen in het water tijdens een achtervolging met de politie. Hij/zij die dit wel dit doet, zal gestraft worden volgens [Artikel 7 - Inbeslagname](https://apv.rpcolumbus.nl/wetboek/#artikel-7-inbeslagname).
 
 ### 3.26 - Spullen geven aan nieuwe spelers
 1. Het is niet toegestaan nieuwe spelers spullen te geven met hoge waarden. Wat verstaan we onder hoge waarden:
