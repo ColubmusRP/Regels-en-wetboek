@@ -74,12 +74,12 @@ Voorbeelden hiervan zijn:
         * Hieronder valt ook het pakken van een nieuwe auto uit de garage binnen deze 10 minuten.
 
 ### 3.3 - F6-menu
-1. Het is niet toegestaan spelers zomaar te fouilleren. Wordt hier overduidelijk misbruik van gemaakt, zal de persoon gestraft worden volgens categorie 1.
-    * Er dient ten alle tijden bij het fouilleren een wapen in het spel te zijn door de speler die fouilleert of door de groep waar deze speler bij hoort.
-    * Je dient ten alle tijden bij het fouilleren achter de desbetreffende speler te staan.
-    * Het is niet toegestaan iemand te fouilleren die hij/zij in Take hostage heeft.
-2. Het is niet toegestaan te rennen met iemand die je mee neemt. Er moet op een normaal tempo gelopen worden. Hij/zij die dit niet doet, zal gestraft worden volgens categorie 1.
-3. Het is niet toegestaan de fouilleer functie te gebruiken om grotere aantallen van een item op zak te hebben dan het toegestane limiet. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. Met uitzondering van overschrijding van limiet door overvallen en rip acties.
+1. Er dient ten alle tijden realistisch om te worden gegaan met het F6-menu. Gebeurd dit niet zal de persoon worden gestraft volgens categorie 1 en kan de gang coördinator ervoor kiezen nog een straf aan de gang op te leggen.
+2. Het is niet toegestaan spelers zomaar te fouilleren. Wordt hier overduidelijk misbruik van gemaakt, zal de persoon gestraft worden volgens categorie 1.
+* Er dient ten alle tijden bij het fouilleren een wapen in het spel te zijn door de speler die fouilleert of door de groep waar deze speler bij hoort.
+* Het is niet toegestaan iemand te fouilleren die hij/zij in Take hostage heeft.
+3. Het is niet toegestaan te rennen met iemand die je mee neemt. Er moet op een normaal tempo gelopen worden. Hij/zij die dit niet doet, zal gestraft worden volgens categorie 1.
+4. Het is niet toegestaan de fouilleer functie te gebruiken om grotere aantallen van een item op zak te hebben dan het toegestane limiet. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. Met uitzondering van overschrijding van limiet door overvallen en rip acties.
 
 ### 3.4 - Baiting
 1. Het met opzet uitlokken, irriteren, opzoeken van overheidsmedewerkers of officiële groeperingen is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
@@ -384,12 +384,14 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.13 - Gangs
 1. Officiële gangs mogen een maximaal ledenaantal hebben die bij hun rang van toepassing is. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang. Wordt hier geen gehoor aan gegeven, zal de baas gestraft worden volgens categorie 1. Hierbij zal dan ook het overschot aan leden weg moeten.
-    * Met "hangaround" worden de mensen bedoeld die nog niet officieel bij de gang zitten. Deze beschikken dus niet over een f6-menu.
-2. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
-3. Het is verboden om valse meldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
-    * Dit geldt ook voor loodsen. Het is dus niet toegestaan een neppe melding te maken bij een loods.
-4. Wanneer de leden in een gang zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de gang coördinator zelf een gepaste straf geven. Dit kan zelfs leiden tot een volledige opschorting van de groep. 
-    * Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
+* Met "hangaround" worden de mensen bedoeld die nog niet officieel bij de gang zitten. Deze beschikken dus niet over een f6-menu.
+
+2. Het is verboden om valse meldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
+
+3. Een naamsverandering als gang zal 150k kosten.
+
+4. Wanneer de leden in een gang zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de gang coördinator zelf een gepaste straf geven. Dit kan zelfs leiden tot een volledige opschorting van de groep.
+Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
 
 ### 4.14 - Gang war
 1. Een gangwar kan verklaard worden door een van de 2 groepen (door gang bazen) wanneer daar een goede reden voor is. Deze moet ten alle tijden eerst besproken worden via de gang coördinatoren. Een oorlog is afgelopen wanneer:
