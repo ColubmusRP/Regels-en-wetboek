@@ -401,7 +401,7 @@ Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
     * Wanneer beide groepen akkoord gaan de war te beëindigen.
 2. Er kan voor gekozen worden andere eisen te stellen aan het aflopen van een gangwar. Dit moet ten alle tijden door besproken worden via een ticket met de gang coördinatoren.
 3. Tijdens een officiële gangwar is het niet toegestaan dat ally gangs elkaar helpen.
-4. Wanneer een speler gedood is door de tegenstander mag hij/zij niet meer deelnemen aan de gang war. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
+4. Wanneer een speler gedood is door de tegenstander mag hij/zij niet meer deelnemen aan de gang war. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1
 5. Het is niet toegestaan tijdens een gang war dezelfde persoon over en over te doden. Wanneer de speler dood is gemaakt weet de speler niks meer van de war en hoeft diegene niet meer dood gemaakt te worden. Gebeurt dit een keer, is dit geen probleem. Wordt dit vaker gedaan, zal hij/zij gestraft worden volgens categorie 1.
 6. Het is ten strengste verboden misbruik te maken van het gang war principe. Wordt er door de gang coördinatoren opgemerkt dat dit gebeurd, zal de leider van de groep gestraft worden volgens categorie 1 en kunnen de gang coördinatoren eventuele verdere straffen uitdelen.
 
