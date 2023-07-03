@@ -527,10 +527,10 @@ Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
 1. Het is ten alle tijden verboden geweld te gebruiken of welke vorm dan ook tegen een andere speler in taak- of celstraf. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
 
 ### 6.5 - Cooldown
-1. Het is verplicht een cooldown aan te vragen van 24 uur wanneer de speler van overheidsbaan naar crimineel gaat en vica versa. Dit geldt ook wanneer de speler van overheidsinstantie wisselt.
+1. Het is verplicht een cooldown aan te vragen van 2 dagen wanneer de speler van overheidsbaan naar crimineel gaat en vica versa. Dit geldt ook wanneer de speler van overheidsinstantie wisselt.
     * De cooldown gaat pas in wanneer er een door een hulpdienst coördinator de cooldown is toegepast.
-2. De speler met een cooldown mag in deze 24 uur geen criminele activitetien en geen rollen hebben voor een overheidsinstanties. De speler die zich hier niet aan houdt, zal een cooldown krijgen van 3 dagen.
-    * Houdt de speler in deze 3 dagen zichzelf er nog steeds niet aan, zal hij/zij een ban krijgen van 3 dagen.
+2. De speler met een cooldown mag in deze 2 dagen geen criminele activitetien en geen rollen hebben voor een overheidsinstanties. De speler die zich hier niet aan houdt, zal een cooldown krijgen van 4 dagen.
+    * Houdt de speler in deze 4 dagen zichzelf er nog steeds niet aan, zal hij/zij een ban krijgen van 3 dagen.
 
 ### 6.6 - IRL Trade
 1. Het verhandelen van items, valuta, diensten of accounts voor echt geld is verboden en zal worden bestraft met een straf volgens categorie 7.
