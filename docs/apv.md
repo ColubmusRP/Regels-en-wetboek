@@ -105,16 +105,6 @@ Voorbeelden hiervan zijn:
     * Wanneer dit een langdurig scenario is, wordt er verwacht dat de speler, wanneer deze weer terug is, het scenario weer doorzet. Houdt de speler zichzelf hier niet aan, wordt dit gezien als “combat loggen”.
 2. Hier valt ook het vermijden van een roleplay onder d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
 
-### 3.8 - GTA-style driving
-1. Het is niet toegestaan onrealistisch rijgedrag te vertonen. Doet de speler dit wel, zal hij/zij bestraft worden volgens categorie 1.
-2. Het is, toegestaan om van de normale rijbaan af te gaan mits dit met de juiste voertuigen gedaan wordt en dit met een realistische snelheid gaat. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens punt 1.
-    * Onder het kopje "Voertuigen" staat een lijstje met welke voertuigen wel en niet offroad mogen.
-    * De ondergrondse spoorwegtunnels worden ook als off-road beschouwd.
-3. Het betreden van een openbaar gebouw met een voertuig valt hier ook onder en zal bestraft worden volgens categorie 1.
-4. Het onrealistisch gebruik maken van je auto is ook niet toegestaan. Dit zal ook bestraft worden volgens categorie 1.
-    * Van een schans af springen met je voertuig.
-    * Van een hoge hoogte af springen met je voertuig.
-
 ### 3.9 - Karakter breken
 1. Het is ten allen tijde verboden om je karakter te breken. Hiermee worden termen bedoeld die niet bestaan in je character. Deze termen worden gezien als OOC (out of character). Hieronder vallen termen zoals "report", "admin", "ticket", "Desync" en dergelijke. Hij/zij die zich hier schuldig aan maakt, zal bestraft worden volgens categorie 1.
     * Ook spreken over onderwerpen buiten het spel FiveM vallen onder karakter breken en is niet toegestaan.
