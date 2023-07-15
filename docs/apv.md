@@ -403,22 +403,22 @@ Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
 4. Het dood schieten van een agent omdat de speler celstraf heeft gekregen van deze agent is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
 
 ### 4.16 - Witwassen
-Een witwasser overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
+1. Een witwasser overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
 * Hij/zij gezichtsbedekking of beschermende kleding zoals een body armor draagt.
 * Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
 * Een overduidelijke escort heeft.
-Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
-Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
-Alle bovenstaande punten zullen bestraft worden volgens categorie 2.
-De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal het scenario ongeldig verklaard worden en gaat het geld terug naar de rechtvaardige eigenaar.
+2. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
+3. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
+4. Alle bovenstaande punten zullen bestraft worden volgens categorie 2.
+5. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal het scenario ongeldig verklaard worden en gaat het geld terug naar de rechtvaardige eigenaar.
 
 ### 4.17 Locaties
-Het campen/opwachten op de witwas locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
-Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-Het campen van verpak locaties is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-Het campen van de wapen craft is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-Het campen van de pusher is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
+1. Het campen/opwachten op de witwas locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
+2. Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+3. Het campen van verpak locaties is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+4. Het campen van de wapen craft is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+5. Het campen van de pusher is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+6. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
 
 ### 4.18 - Illegale activiteiten op Twitter
 1. Het is niet toegestaan om illegale activiteiten te bespreken op Twitter. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
