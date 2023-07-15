@@ -404,9 +404,9 @@ Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
 
 ### 4.16 - Witwassen
 1. Een witwasser overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
-* Hij/zij gezichtsbedekking of beschermende kleding zoals een body armor draagt.
-* Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
-* Een overduidelijke escort heeft.
+    * Hij/zij gezichtsbedekking of beschermende kleding zoals een body armor draagt.
+    * Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
+    * Een overduidelijke escort heeft.
 2. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 3. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
 4. Alle bovenstaande punten zullen bestraft worden volgens categorie 2.
